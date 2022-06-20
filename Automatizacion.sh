@@ -1,5 +1,5 @@
 #!/bin/bash
-#programa diseñado para hacer la configuracion inicial de un sistema operativo linux en el caimi
+#programa diseñado para hacer la configuracion inicial de un sistema operativo linux en empresas con configuraciones especificas.
 #Este escript lleva las configuraciones iniciales tales como, asignacion de ip, agregacion de certificados, agregacion de proxys, añadidura de el equipo al directorio activo.
 #Autor: Luis Oviedo
 
@@ -25,7 +25,7 @@ do
 	6. Informacion de Paquetes (instalados)
 	7. Estado de un programa
 	8. Backup informacion
-	9. Ingrese una Opción"
+	9. Añadir equipo al dominio.
 
 	#leer los datos del usuario -capturar informacion
 	echo "\n"
